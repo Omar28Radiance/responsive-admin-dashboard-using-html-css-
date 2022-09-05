@@ -59,37 +59,37 @@ body{
     grid-template-columns: 14rem auto 23 rem;
 }
 
-a{
+a {
     color: var(--color-dark);
 }
 
-img{
+img {
     display: block;
     width: 100%;
 }
 
-h1{
+h1 {
     font-weight: 800;
     font-size: 1.8rem;
 }
 
-h2{
+h2 {
     font-size: 1.4rem;
 }
 
-h3{
+h3 {
     font-size: 0.87rem;
 }
 
-h4{
+h4 {
     font-size: 0.8rem;
 }
 
-h5{
+h5 {
     font-size: 0.77rem;
 }
 
-small{
+small {
     font-size: 0.75rem;
 }
 
@@ -97,10 +97,10 @@ small{
     width: 2.8rem;
     height: 2.8rem;
     border-radius: 50%;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
-.text-muted{
+.text-muted {
     color: var(--color-info-dark);
 }
 
