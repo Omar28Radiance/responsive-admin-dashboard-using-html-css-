@@ -96,3 +96,6 @@ small{
     color: var(--color-info-dark);
 }
 
+p{
+    color: var(--color-dark-variant);
+}
