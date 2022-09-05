@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
 /* -------------- ROOT VARIABLES -------------- */
 :root {
     --color-primary: #7380ec;
@@ -22,4 +24,13 @@
     --padding-1: 1.2 rem;
 
     --box-shadow: 0 2rem 3rem var(--color-light);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    appearance: none;
+    border: 0;
+    text-decoration: none;
 }
