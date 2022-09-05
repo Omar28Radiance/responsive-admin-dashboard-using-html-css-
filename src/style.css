@@ -51,12 +51,12 @@ body{
     overflow-x: hidden;
 }
 
-.container{
+.container {
     display: grid;
     width: 96%;
     margin: 0 auto;
     gap: 1.8rem;
-    grid-template-columns: 14rem auto 23 rem;
+    grid-template-columns: 14rem auto 23rem;
 }
 
 a {
@@ -127,7 +127,28 @@ b{
 
 aside{
     height: 100vh;
-    background: gray;
 }
 
-aside .top{}
+aside .top{
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1.4rem;
+}
+
+aside .logo{
+    display: flex;
+    gap: 0.8rem;
+}
+
+aside .logo img{
+    width: 2rem;
+    height: 2rem;
+}
+
+aside .close{
+    display: none;
+}
+
+/* ================== SIDEBAR ================== */
