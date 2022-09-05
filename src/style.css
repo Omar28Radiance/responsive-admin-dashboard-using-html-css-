@@ -99,3 +99,7 @@ small{
 p{
     color: var(--color-dark-variant);
 }
+
+b{
+    color: var(--color-dark);
+}
