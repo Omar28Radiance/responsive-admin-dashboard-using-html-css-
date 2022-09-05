@@ -54,3 +54,8 @@ body{
 a{
     color: var(--color-dark);
 }
+
+img{
+    display: block;
+    width: 100%;
+}
