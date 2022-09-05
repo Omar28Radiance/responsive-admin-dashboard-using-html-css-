@@ -103,3 +103,7 @@ p{
 b{
     color: var(--color-dark);
 }
+
+.primary{
+    color: var(--color-primary);
+}
