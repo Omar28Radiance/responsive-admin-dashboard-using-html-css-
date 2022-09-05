@@ -104,6 +104,15 @@ b{
     color: var(--color-dark);
 }
 
-.primary{
+.primary {
     color: var(--color-primary);
+}
+.danger {
+    color: var(--color-danger);
+}
+.success {
+    color: var(--color-success);
+}
+.warning {
+    color: var(--color-warning);
 }
