@@ -92,3 +92,7 @@ small{
     overflow-x: hidden;
 }
 
+.text-muted{
+    color: var(--color-info-dark);
+}
+
