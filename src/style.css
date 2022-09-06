@@ -191,3 +191,10 @@ aside .sidebar a.active{
     color: var(--color-primary);
     margin-left: 0;
 }
+
+aside .sidebar a.active:before{
+    content: '';
+    width: 6px;
+    height: 100%;
+    background: var(--color-primary);
+}
