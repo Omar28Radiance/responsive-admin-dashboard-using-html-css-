@@ -125,11 +125,11 @@ b{
     color: var(--color-warning);
 }
 
-aside{
+aside {
     height: 100vh;
 }
 
-aside .top{
+aside .top {
     background: white;
     display: flex;
     align-items: center;
@@ -137,18 +137,31 @@ aside .top{
     margin-top: 1.4rem;
 }
 
-aside .logo{
+aside .logo {
     display: flex;
     gap: 0.8rem;
 }
 
-aside .logo img{
+aside .logo img {
     width: 2rem;
     height: 2rem;
 }
 
-aside .close{
+aside .close {
     display: none;
 }
 
 /* ================== SIDEBAR ================== */
+aside .sidebar {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    height: 86vh;
+    position: relative;
+    top: 3rem;
+}
+
+
+
+
+
