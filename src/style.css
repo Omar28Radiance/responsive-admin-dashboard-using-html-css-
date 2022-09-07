@@ -389,3 +389,7 @@ main .recent-orders a {
     gap: 2rem;
     background: gray;
 }
+
+.right .top button {
+    display: none;
+}
