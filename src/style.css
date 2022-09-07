@@ -415,5 +415,13 @@ main .recent-orders a {
 
 .right .theme-toggler span.active {
     background: var(--color-primary);
+    color: white;
+    border-radius: var(--border-radius-1);
 }
+
+
+
+
+
+
 
