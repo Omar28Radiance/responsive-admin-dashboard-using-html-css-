@@ -413,5 +413,7 @@ main .recent-orders a {
     justify-content: center;
 }
 
-
+.right .theme-toggler span.active {
+    background: var(--color-primary);
+}
 
