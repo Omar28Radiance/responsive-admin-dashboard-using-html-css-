@@ -337,3 +337,8 @@ main .insights small {
     margin-top: 1.3rem;
     display: block;
 }
+
+/* ================ RECENT ORDERS ================ */
+main .recent-orders{
+    margin-top: 2rem;
+}
