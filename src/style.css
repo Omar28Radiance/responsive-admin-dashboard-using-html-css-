@@ -306,3 +306,8 @@ main .insights svg circle {
     stroke-dasharray: 110;
     stroke-dashoffset: 92;
 }
+
+main .insights .sales svg circle {
+    stroke-dashoffset: -30;
+    stroke-dasharray: 200;
+}
