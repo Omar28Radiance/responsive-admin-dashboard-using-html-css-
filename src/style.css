@@ -266,3 +266,6 @@ main .insights > div span {
     font-size: 2rem;
 }
 
+main .insights > div.expenses span {
+    background: var(--color-danger);
+}
