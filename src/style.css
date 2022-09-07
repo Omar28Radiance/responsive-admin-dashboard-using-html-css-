@@ -404,3 +404,14 @@ main .recent-orders a {
     border-radius: var(--border-radius-1);
 }
 
+.right .theme-toggler span {
+    font-size: 1.2rem;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
