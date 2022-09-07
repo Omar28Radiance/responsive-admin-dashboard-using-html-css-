@@ -280,3 +280,8 @@ main .insights > div .middle {
     justify-content: space-between;
 }
 
+main .insights h3 {
+    margin: 1rem 0 0.5rem;
+    font-size: 1rem;
+}
+
