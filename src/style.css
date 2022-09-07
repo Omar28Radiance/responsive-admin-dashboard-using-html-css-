@@ -273,3 +273,10 @@ main .insights > div.expenses span {
 main .insights > div.income span {
     background: var(--color-success);
 }
+
+main .insights > div .middle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
