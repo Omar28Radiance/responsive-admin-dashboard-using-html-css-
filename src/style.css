@@ -419,9 +419,15 @@ main .recent-orders a {
     border-radius: var(--border-radius-1);
 }
 
+.right .top .profile {
+    display: flex;
+    gap: 2rem;
+    text-align: right;
+}
 
-
-
-
+/* ================ RECENT UPDATES ================ */
+.right .recent-updates {
+    margin-top: 1rem;
+}
 
 
