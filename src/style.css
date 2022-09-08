@@ -430,4 +430,6 @@ main .recent-orders a {
     margin-top: 1rem;
 }
 
-
+.right .recent-updates h2 {
+    margin-bottom: 0.8rem;
+}
