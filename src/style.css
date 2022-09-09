@@ -453,6 +453,9 @@ main .recent-orders a {
     margin-bottom: 1rem;
 }
 
-
+/* ================= SALES ANALYTICS ================= */
+.right .sales-analytics {
+    margin-top: 2rem;
+}
 
 
