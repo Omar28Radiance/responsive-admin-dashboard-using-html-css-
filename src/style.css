@@ -534,4 +534,8 @@ main .recent-orders a {
     aside .sidebar h3 {
         display: none;
     }
+
+    aside .sidebar a {
+        width: 5.6rem;
+    }
 }
