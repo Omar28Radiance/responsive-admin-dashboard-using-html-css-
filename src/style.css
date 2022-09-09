@@ -538,4 +538,9 @@ main .recent-orders a {
     aside .sidebar a {
         width: 5.6rem;
     }
+
+    aside .sidebar a:last-child {
+        position: relative;
+        margin-top: 1.8rem;
+    }
 }
