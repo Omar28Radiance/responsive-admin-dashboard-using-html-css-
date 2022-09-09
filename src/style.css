@@ -530,4 +530,8 @@ main .recent-orders a {
     aside .logo h2 {
         display: none;
     }
+
+    aside .sidebar h3 {
+        display: none;
+    }
 }
