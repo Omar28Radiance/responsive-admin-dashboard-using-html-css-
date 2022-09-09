@@ -543,4 +543,9 @@ main .recent-orders a {
         position: relative;
         margin-top: 1.8rem;
     }
+
+    main .insights {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
 }
