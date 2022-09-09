@@ -521,4 +521,10 @@ main .recent-orders a {
     font-weight: 600;
 }
 
-
+/* ================= MEDIA QUERIES ================= */
+@media screen and (max-width: 1200px) {
+    .container {
+        width: 94%;
+        grid-template-columns: 7rem auto 23rem;
+    }
+}
