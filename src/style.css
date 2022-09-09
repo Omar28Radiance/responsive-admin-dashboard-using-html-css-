@@ -131,7 +131,6 @@ aside {
 }
 
 aside .top {
-    background: white;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -526,5 +525,9 @@ main .recent-orders a {
     .container {
         width: 94%;
         grid-template-columns: 7rem auto 23rem;
+    }
+
+    aside .logo h2 {
+        display: none;
     }
 }
