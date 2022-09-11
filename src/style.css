@@ -594,4 +594,8 @@ main .recent-orders a {
     aside .logo h2 {
         display: inline;
     }
+
+    aside .sidebar h3 {
+        display: inline;
+    }
 }
