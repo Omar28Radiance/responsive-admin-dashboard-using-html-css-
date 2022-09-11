@@ -598,4 +598,14 @@ main .recent-orders a {
     aside .sidebar h3 {
         display: inline;
     }
+
+    aside .sidebar a {
+        width: 100%;
+        height: 3.4rem;
+    }
+
+    aside .sidebar a:last-child {
+        position: absolute;
+        bottom: 5rem;
+    }
 }
