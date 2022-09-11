@@ -554,6 +554,10 @@ main .recent-orders a {
         position: absolute;
         left: 50%;
         transform: translateX(-50%);
-        margin: 2rem 0 0 0.8rem;
+        margin: 2rem 0 0 8.8rem;
+    }
+
+    main .recent-orders table {
+        width: 84vh;
     }
 }
