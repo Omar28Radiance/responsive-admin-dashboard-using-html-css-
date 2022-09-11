@@ -558,6 +558,14 @@ main .recent-orders a {
     }
 
     main .recent-orders table {
-        width: 84vh;
+        width: 83vw;
+    }
+
+    main table thead tr td:last-child, main table thead tr th:first-child {
+        display: none;
+    }
+
+    main table tbody tr td:last-child, main table tbody tr th:first-child {
+        display: none;
     }
 }
