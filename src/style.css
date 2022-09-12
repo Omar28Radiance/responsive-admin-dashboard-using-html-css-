@@ -655,4 +655,8 @@ main .recent-orders a {
         position: absolute;
         left: 66%;
     }
+
+    .right .profile .info {
+        display: none;
+    }
 }
