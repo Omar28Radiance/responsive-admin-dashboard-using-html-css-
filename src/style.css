@@ -574,6 +574,7 @@ main .recent-orders a {
 @media screen and (max-width: 768px) {
     .container {
         width: 100%;
+        grid-template-columns: 1fr;
     }
 
     aside {
@@ -667,5 +668,9 @@ main .recent-orders a {
         color: var(--color-dark);
         position: absolute;
         left: 1rem;
+    }
+
+    .right .top button .span {
+        font-size: 2rem;
     }
 }
